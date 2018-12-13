@@ -1,0 +1,28 @@
+Reading Material for CNN
+
+http://cs.nju.edu.cn/wujx/
+
+Understanding the CNN with a Mathematical model - why is a non linear activation function is essential at the filter output of all intermediate layers
+
+Max pooling - introduces spatial invariance and reduces no. of parameters
+
+scs.ryerson.ca/~aharley/vis/conv/flat.html
+
+must read - 
+https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
+
+
+https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow
+
+
+Video by Geoffery hinton (father of deep learning) explaining Softfmax functions and cross entropy 
+https://www.youtube.com/watch?v=PHP8beSz5o4
+
+
+deeplearning ai
+https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
+
+
+https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/
+
+http://peterroelants.github.io/posts/neural_network_implementation_intermezzo02/
